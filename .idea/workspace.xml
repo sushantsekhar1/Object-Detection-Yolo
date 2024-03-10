@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aba341ea-12bf-446f-8856-166c7bf281f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
       <recent name="$PROJECT_DIR$/Running Yolo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Yolo-basics">
+  <component name="RunManager" selected="Python.Yolo-Webcam">
     <configuration name="Yolo-Webcam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Object-Detection-Yolo" />
       <option name="ENV_FILES" value="" />
@@ -154,8 +153,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Yolo-basics" />
         <item itemvalue="Python.Yolo-Webcam" />
+        <item itemvalue="Python.Yolo-basics" />
         <item itemvalue="Python.Yolo-basic" />
       </list>
     </recent_temporary>
